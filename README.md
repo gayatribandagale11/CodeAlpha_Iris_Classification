@@ -78,7 +78,7 @@ Model evaluation and performance analysis
 
 🎥 Project Video: https://drive.google.com/file/d/1AIev6rBjzOesrsFpZrN76y-UVZ8ObYSs/view?usp=drive_link
 
-💼 LinkedIn Post: 
+💼 LinkedIn Post: https://www.linkedin.com/posts/gayatri-bandagale-843882401_datascience-machinelearning-python-ugcPost-7456266602624389120-cPVM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGbSijMBxx76j0SK2-J6RxcixzZ8q_pYtx0
 
 # 🔗 Connect with Me
 LinkedIn: https://www.linkedin.com/in/gayatri-bandagale-843882401
