@@ -1,4 +1,4 @@
-<img width="589" height="498" alt="image" src="https://github.com/user-attachments/assets/4f97c118-367a-41da-8c8d-579a0e210513" /># CodeAlpha_Iris_Classification
+# CodeAlpha_Iris_Classification
 🌸 Iris Flower Classification using Machine Learning
 # 📌 Project Overview
 This project is based on Iris Flower Classification, where a machine learning model is used to predict the species of an iris flower based on its physical measurements.
