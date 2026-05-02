@@ -76,7 +76,7 @@ Model evaluation and performance analysis
 
 🔗 GitHub Repository: https://github.com/gayatribandagale11/CodeAlpha_Iris_Classification
 
-🎥 Project Video: https://drive.google.com/file/d/1TiZknn0gmdu1RRvWN-nIivVlrNjoYY7b/view?usp=drive_link
+🎥 Project Video: https://drive.google.com/file/d/1AIev6rBjzOesrsFpZrN76y-UVZ8ObYSs/view?usp=drive_link
 
 💼 LinkedIn Post: 
 
