@@ -54,11 +54,14 @@ Model performs effectively in classifying flower species
 
 # 🚀 Getting Started
 1️⃣ Clone Repository
-git clone https://github.com/your-username/CodeAlpha_Iris_Classification.git
+git clone https://github.com/gayatribandagale11/CodeAlpha_Iris_Classification.git
+
 2️⃣ Navigate to Project
 cd CodeAlpha_Iris_Classification
+
 3️⃣ Install Dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
+
 4️⃣ Run the Project
 Open the Jupyter Notebook
 Execute all cells
