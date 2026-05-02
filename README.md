@@ -72,6 +72,11 @@ Data preprocessing and cleaning
 Data visualization techniques
 Model evaluation and performance analysis
 
+#🔗 Links
+🔗 GitHub Repository: 
+🎥 Project Video: C:\Users\Gayatri\Downloads\CodAlpha\Task 1
+💼 LinkedIn Post: 
+
 # 🔗 Connect with Me
 LinkedIn: https://www.linkedin.com/in/gayatri-bandagale-843882401
 
