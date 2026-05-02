@@ -73,8 +73,11 @@ Data visualization techniques
 Model evaluation and performance analysis
 
 #🔗 Links
-🔗 GitHub Repository: 
-🎥 Project Video: C:\Users\Gayatri\Downloads\CodAlpha\Task 1
+
+🔗 GitHub Repository: https://github.com/gayatribandagale11/CodeAlpha_Iris_Classification
+
+🎥 Project Video: https://drive.google.com/file/d/1TiZknn0gmdu1RRvWN-nIivVlrNjoYY7b/view?usp=drive_link
+
 💼 LinkedIn Post: 
 
 # 🔗 Connect with Me
